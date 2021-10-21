@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="gps">GPS</string>
+    <string name="hyouzi">表示</string>
+    <string name="button">Button</string>
+    <string name="hoyuzi">表示</string>
+</resources>
